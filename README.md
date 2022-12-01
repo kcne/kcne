@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kcne" alt="kcne" /></a> </p>
 
-- 🌱 I’m currently learning **heuristic/optimization algorithms, machine learning and web development. **
+- 🌱 I’m currently working on **heuristic/optimization algorithms, data science and web development projects.**
 
 - 📫 How to reach me **kocanmn.dev@gmail.com**
 
