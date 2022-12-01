@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emin Kocan</h1>
 <h3 align="center">A passionate computer engineer with focus on Web Development and Data Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kcne&label=Profile%20views&color=0e75b6&style=flat" alt="kcne" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kcne" alt="kcne" /></a> </p>
 
-- 🌱 I’m currently learning **heuristic/optimization algorithms, machine learning and web development fundamentals**
+- 🌱 I’m currently learning **heuristic/optimization algorithms, machine learning and web development. **
 
 - 📫 How to reach me **kocanmn.dev@gmail.com**
 
