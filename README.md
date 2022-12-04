@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **kocanmn.dev@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/mCBt9i6qE](https://resume.io/r/mCBt9i6qE)
+- 📄 Know about my experiences: [Resume](https://resume.io/r/JoLNjVBNj)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
